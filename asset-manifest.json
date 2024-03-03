@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cat-portfolio/static/css/main.d86c2395.css",
-    "main.js": "/cat-portfolio/static/js/main.ae9a3b4e.js",
+    "main.css": "/cat-portfolio/static/css/main.420b1375.css",
+    "main.js": "/cat-portfolio/static/js/main.abb26206.js",
     "static/js/787.db760d71.chunk.js": "/cat-portfolio/static/js/787.db760d71.chunk.js",
     "static/media/wics.png": "/cat-portfolio/static/media/wics.c5d4399ed3589f722185.png",
     "static/media/adobe-figma.png": "/cat-portfolio/static/media/adobe-figma.4a0809666682138fe1e5.png",
@@ -9,6 +9,7 @@
     "static/media/adobe-mission.png": "/cat-portfolio/static/media/adobe-mission.eacbc57e68cad01257eb.png",
     "static/media/mind-map.png": "/cat-portfolio/static/media/mind-map.9de8b1fbb16ed37ad7ab.png",
     "static/media/journey-map.png": "/cat-portfolio/static/media/journey-map.6b6c6372d308010102f4.png",
+    "static/media/cat-resume.pdf": "/cat-portfolio/static/media/cat-resume.bd95d7a112afbec9db3f.pdf",
     "static/media/iphone13-full.png": "/cat-portfolio/static/media/iphone13-full.e73d23486ef21b50a35a.png",
     "static/media/jordan.png": "/cat-portfolio/static/media/jordan.9242c16f4b2ec756c0f4.png",
     "static/media/toolbox.png": "/cat-portfolio/static/media/toolbox.4f9d368a3ea8d4fc226b.png",
@@ -31,7 +32,7 @@
     "static/media/schedule1.png": "/cat-portfolio/static/media/schedule1.744467c2f3da8456d3ae.png",
     "static/media/sidebar-happy-cat.png": "/cat-portfolio/static/media/sidebar-happy-cat.f961e8113ee6b86f1a9b.png",
     "static/media/sidebar-cat.png": "/cat-portfolio/static/media/sidebar-cat.f9462299f4233d505adc.png",
-    "static/media/ted-ground-windmill.svg": "/cat-portfolio/static/media/ted-ground-windmill.ef366c0987c90c476c629bf284679886.svg",
+    "static/media/ted-ground.svg": "/cat-portfolio/static/media/ted-ground.584c1f7566365e3f4454d7428551b554.svg",
     "static/media/ClashDisplay-Medium.otf": "/cat-portfolio/static/media/ClashDisplay-Medium.afcc86306d88484344b4.otf",
     "static/media/ClashDisplay-Semibold.otf": "/cat-portfolio/static/media/ClashDisplay-Semibold.4502ac103e57426165ae.otf",
     "static/media/ClashDisplay-Light.otf": "/cat-portfolio/static/media/ClashDisplay-Light.4028f953b0654fedccb2.otf",
@@ -50,22 +51,25 @@
     "static/media/nunito-vietnamese-400-normal.woff2": "/cat-portfolio/static/media/nunito-vietnamese-400-normal.a83bae0c745757608a84.woff2",
     "static/media/puzz1.svg": "/cat-portfolio/static/media/puzz1.bc098c3ab3ebd93134c9d3f423fdf877.svg",
     "static/media/puzz0.svg": "/cat-portfolio/static/media/puzz0.2d179b00fd983a0e1851aaeaa8bad165.svg",
+    "static/media/windmill.svg": "/cat-portfolio/static/media/windmill.9bbcef82d39096ce58e91c097a2b812a.svg",
     "static/media/puzz3.svg": "/cat-portfolio/static/media/puzz3.65837d4ed53785c517c46048fa221d1c.svg",
     "static/media/twitter.svg": "/cat-portfolio/static/media/twitter.609034d9ca2dcc20bae8987667b18092.svg",
     "static/media/puzz2.svg": "/cat-portfolio/static/media/puzz2.2887d81413f8130153123e064e1c3aaa.svg",
     "static/media/folder.svg": "/cat-portfolio/static/media/folder.102e5e7d648a7f494d943ddeb2847af8.svg",
     "static/media/selector.svg": "/cat-portfolio/static/media/selector.364c521d4be3ab8f3d3d2d1efebf9dce.svg",
+    "static/media/snowflake1.svg": "/cat-portfolio/static/media/snowflake1.8c0205a144eb9180e70d9c40b11f1b62.svg",
     "static/media/linkedin.svg": "/cat-portfolio/static/media/linkedin.4b7de6a999231981bed402b03537c864.svg",
     "static/media/bullet.svg": "/cat-portfolio/static/media/bullet.237d8ea31268c8379ce610d2862322c3.svg",
     "index.html": "/cat-portfolio/index.html",
     "static/media/lock.svg": "/cat-portfolio/static/media/lock.92c4b0bbb4f970c748117da8592c462e.svg",
     "static/media/email.svg": "/cat-portfolio/static/media/email.854cf9ec59627ce90c2c8c8dba8976dd.svg",
-    "main.d86c2395.css.map": "/cat-portfolio/static/css/main.d86c2395.css.map",
-    "main.ae9a3b4e.js.map": "/cat-portfolio/static/js/main.ae9a3b4e.js.map",
+    "static/media/snowflake2.svg": "/cat-portfolio/static/media/snowflake2.81c0f8be429f60c29b3b70ace04c0108.svg",
+    "main.420b1375.css.map": "/cat-portfolio/static/css/main.420b1375.css.map",
+    "main.abb26206.js.map": "/cat-portfolio/static/js/main.abb26206.js.map",
     "787.db760d71.chunk.js.map": "/cat-portfolio/static/js/787.db760d71.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d86c2395.css",
-    "static/js/main.ae9a3b4e.js"
+    "static/css/main.420b1375.css",
+    "static/js/main.abb26206.js"
   ]
 }
