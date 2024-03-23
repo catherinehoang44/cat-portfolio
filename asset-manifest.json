@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.384f8de2.css",
-    "main.js": "/static/js/main.d05ccfef.js",
+    "main.js": "/static/js/main.bda567fe.js",
     "static/js/845.5b0d91d1.chunk.js": "/static/js/845.5b0d91d1.chunk.js",
     "static/js/787.db760d71.chunk.js": "/static/js/787.db760d71.chunk.js",
     "static/media/wics.png": "/static/media/wics.c5d4399ed3589f722185.png",
@@ -53,7 +53,6 @@
     "static/media/editor-search.png": "/static/media/editor-search.bd487ec395d343943b75.png",
     "static/media/nunito-latin-400-normal.woff": "/static/media/nunito-latin-400-normal.993d6c50aeb5ceefdfc6.woff",
     "static/media/nunito-latin-400-normal.woff2": "/static/media/nunito-latin-400-normal.9f3f4583bd7c435a198c.woff2",
-    "static/media/Switch.mp3": "/static/media/Switch.b75014b3d3ef1fed0c47.mp3",
     "static/media/nunito-latin-ext-400-normal.woff2": "/static/media/nunito-latin-ext-400-normal.ca34ca0f04c144c14d57.woff2",
     "static/media/Computer Processing.mp3": "/static/media/Computer Processing.b37ae8b32c9f1adeb14a.mp3",
     "static/media/nunito-cyrillic-ext-400-normal.woff": "/static/media/nunito-cyrillic-ext-400-normal.bbc8ddfbf7a68744ec73.woff",
@@ -79,12 +78,12 @@
     "index.html": "/index.html",
     "static/media/snowflake2.svg": "/static/media/snowflake2.81c0f8be429f60c29b3b70ace04c0108.svg",
     "main.384f8de2.css.map": "/static/css/main.384f8de2.css.map",
-    "main.d05ccfef.js.map": "/static/js/main.d05ccfef.js.map",
+    "main.bda567fe.js.map": "/static/js/main.bda567fe.js.map",
     "845.5b0d91d1.chunk.js.map": "/static/js/845.5b0d91d1.chunk.js.map",
     "787.db760d71.chunk.js.map": "/static/js/787.db760d71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.384f8de2.css",
-    "static/js/main.d05ccfef.js"
+    "static/js/main.bda567fe.js"
   ]
 }
